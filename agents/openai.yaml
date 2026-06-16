@@ -1,0 +1,3 @@
+version: 1
+name: image-reverse-prompt
+description: Reverse-engineer one or more reference images into structured prompts and reusable prompt templates, including multi-reference style DNA extraction, visual locks, product locks, variant templates, and model-specific prompt adaptation.
